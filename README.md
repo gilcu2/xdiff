@@ -1,5 +1,7 @@
 # X-Diff algorithm implemented in Go
 
+Forked from https://github.com/ajankovic/xdiff
+
 [![GoDoc Badge]][GoDoc] [![GoReportCard Badge]][GoReportCard] [![Build Status](https://travis-ci.com/ajankovic/xdiff.svg?branch=master)](https://travis-ci.com/ajankovic/xdiff)
 
 This project should be considered as __WORK IN PROGRESS__. Breaking changes will most likely happen the API so refrain from using it for anything important until it reaches the stable version. X-Diff algorithm paper can be found [here](http://pages.cs.wisc.edu/~yuanwang/papers/xdiff.pdf).

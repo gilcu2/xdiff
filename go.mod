@@ -1,1 +1,1 @@
-module github.com/ajankovic/xdiff
+module xmldiff

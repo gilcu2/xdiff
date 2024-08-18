@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ajankovic/xdiff/xtree"
+	"xmldiff/internal/xtree"
 )
 
 // Operation defines possible modifying operations of the edit script.

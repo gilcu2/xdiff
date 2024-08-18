@@ -3,7 +3,7 @@ package xdiff
 import (
 	"testing"
 
-	"github.com/ajankovic/xdiff/xtree"
+	"github.com/gilcu2/xdiff/xtree"
 )
 
 func TestCompare(t *testing.T) {
